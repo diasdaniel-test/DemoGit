@@ -100,6 +100,7 @@ public void deleteplace_Payload() throws IOException {
 @Given("print the statement")
 	public void print() {
 	System.out.println("print");
+	System.out.println("git check");
 }
 
 }
